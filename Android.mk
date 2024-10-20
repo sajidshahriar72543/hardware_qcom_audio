@@ -35,3 +35,5 @@ endif
 endif
 
 endif
+
+include $(MY_LOCAL_PATH)/include.mk
